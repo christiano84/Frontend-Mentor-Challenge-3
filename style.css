@@ -52,7 +52,6 @@ header p {
   max-width: 400px;
   box-shadow: 0 10px 10px #ddd;
   border-radius: 8px;
-  display: relative;
 }
 
 .card:nth-of-type(1) {
