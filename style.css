@@ -101,7 +101,7 @@ header p {
   color: hsl(228, 45%, 44%); 
 }
 
-@media (max-width: 1150px) {
+@media (max-width: 1215px) {
   header {
     width: 100%;
   }
