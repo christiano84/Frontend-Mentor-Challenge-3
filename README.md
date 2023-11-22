@@ -1,3 +1,7 @@
+VIEW THE LIVE SITE HERE
+
+https://christiano84.github.io/Frontend-Mentor-Challenge-3/
+
 # Frontend Mentor - Four card feature section
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
