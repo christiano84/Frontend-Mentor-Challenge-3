@@ -1,4 +1,6 @@
-VIEW THE LIVE SITE HERE
+This was a test of HTML and CSS knowledge as well as a test of your ability to recreate a design in code without using tools like Figma.
+
+You can view the live site below as well as the 'challenge' specification below it to compare the two.
 
 https://christiano84.github.io/Frontend-Mentor-Challenge-3/
 
@@ -15,8 +17,6 @@ https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
 
